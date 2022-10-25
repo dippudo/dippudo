@@ -1,18 +1,15 @@
 # DIPPUDO
 
-<img align="left" src="https://i.imgur.com/jAiMEqJ.png/dippudo.png" alt="Dippudo" width="200" height="200">
-
-**Hi** 👋
-
-I’m **Dippudo**, a simple dude who likes to make animations and art in 3D, as well as write about my experiences and thoughts - investor too. I recently got into programming (with the current course I'm taking) with the intentions of working on something cool one day.
+### Hi, I'm Dippudo 👋 
+I'm a pseudonymous individual who spends most of my time in front of a computer and has a natural interest in finance. I started contributing to Bankless DAO after falling down the crypto rabbit hole in the middle of 2021. I subsequently won the Fight Club NFT Competition and am now working on numerous other projects within the DAO and The Rug News as a designer. I am now spending time diving deeper into the worlds of economics, computer science, and finance. 
 
 Welcome to my personal website/Github. Feel free to have a look around and discover some of the things that I have been working on!
 
 <br>
-<br>
-
 
 ## Links
+Feel free to contact me via email contact.dippudo@gmail.com or Twitter DM’s for any inquiries!
+
 **SOCIAL MEDIA**
 
 * Twitter: https://twitter.com/dippudo
@@ -24,9 +21,6 @@ Welcome to my personal website/Github. Feel free to have a look around and disco
 * Medium: https://dippudo.medium.com/
 * Substack: https://dippudo.substack.com/
 * Mirror: https://mirror.xyz/dippudo.eth
-<br>
-
-Feel free to contact me via email contact.dippudo@gmail.com or Twitter DM’s for any inquiries!
 
 <br>
 
