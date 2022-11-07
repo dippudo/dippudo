@@ -16,7 +16,7 @@ Dippudo is my online and working pseudonym. I'm interested in data and automatio
 ## Skills
 
 <details>
-<summary>I have a wide array of skills and am continuously sharpening them and adding more to my stack:</summary>
+<summary>I have a wide array of skills and am continuously sharpening them and adding more to my stack 🔽</summary>
 
 <br>
 
