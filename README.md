@@ -11,7 +11,7 @@ Dippudo is my online and working pseudonym. I'm interested in data and automatio
       <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/dippudo?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
 
-
+---
 
 ## Skills
 
@@ -20,10 +20,7 @@ Dippudo is my online and working pseudonym. I'm interested in data and automatio
 
 <br>
 
-**Languages and Packages 🛠️**
-
-My favourite programming languages and packages that I use in my projects.
-
+### Languages and Packages 🛠️
 <p>
 <img alt="Python" style="padding-right:10px; padding-bottom:10px" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 <img alt="Pandas" style="padding-right:10px; padding-bottom:10px" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -33,18 +30,14 @@ My favourite programming languages and packages that I use in my projects.
 <img alt="Markdown" style="padding-right:10px; padding-bottom:10px" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
 
 
-**IDEs 👩‍💻**
-
-The integrated development environments that I use in my projects.
+### IDEs 👩‍💻
 <p>
 <img alt="Visual Studio Code" style="padding-right:10px; padding-bottom:10px" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 <img alt="Jupyter Notebook" style="padding-right:10px; padding-bottom:10px" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
 </p>
 
 
-**Terminals and Operating Systems 🖥️**
-
-Some terminals and operating systems that I have experience in using.
+### Terminals and Operating Systems 🖥️
 <p>
 <img alt="Windows" style="padding-right:10px; padding-bottom:10px" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 <img alt="Linux" style="padding-right:10px; padding-bottom:10px" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
@@ -54,10 +47,10 @@ Some terminals and operating systems that I have experience in using.
 <img alt="Windows Powershell" style="padding-right:10px; padding-bottom:10px" src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
 </p>
 
+<br>
 
 <details>
 <summary>Applications 💻</summary>
-A short list of the main applications I use to increase productivity.
 <br>
 <p>
 <img alt="Microsoft Office" style="padding-right:10px; padding-bottom:10px" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
@@ -72,7 +65,6 @@ A short list of the main applications I use to increase productivity.
 
 <details>
 <summary>Creatives 🎨</summary>
-Some of the software I use when designing visuals.
 <br>
 <p>
 <img alt="Adobe Creative Cloud" style="padding-right:10px; padding-bottom:10px" src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white" />
@@ -84,11 +76,13 @@ Some of the software I use when designing visuals.
 <img alt="Blender" style="padding-right:10px; padding-bottom:10px" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
 </p> </details>
 
+<br>
+   
 </details>
 
-## Links
+---
 
-##### SOCIALS
+### Links
 
    <p align="left">
       <a href="https://twitter.com/dippudo">
