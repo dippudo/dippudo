@@ -1,13 +1,7 @@
 # ```print("Hi, I'm Dippudo 👋")```
-<div align="center">Welcome to my GitHub! I'm a passionate student currently exploring the intersection of Computer Science and Economics. 🐍 📒 📊</div><br>
+<div align="center">Welcome to my GitHub! I'm a passionate student currently exploring the intersection of Computer Science and Economics.</div><br>
 
-<p align="center">
-  <img src="https://i.imgur.com/Wo7JBB2.png/dippudo_transparent.png" alt="Dippudo" width="500" height="500"/>
-</p>
-
-Dippudo is my online and working pseudonym, my very own nom de plume. I'm interested in data and automation, and combining these interests with an inherent curiosity of technology and finance.
-
-I like to work on projects that allign with my interests during my free time. Feel free to browse my GitHub page and take a look at the projects I've been working on! <br>
+Dippudo is my online and working pseudonym. I'm interested in data and automation, and combining these interests with an inherent curiosity of technology and finance. I like to work on projects that allign with my interests during my free time, feel free to browse my GitHub page and take a look at the projects I've been working on! <br>
 
 
 <p align="left">
@@ -17,11 +11,18 @@ I like to work on projects that allign with my interests during my free time. Fe
       <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/dippudo?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
 
----
+
 
 ## Skills
 
-### Languages and Packages 🛠️
+<details>
+<summary>I have a wide array of skills and am continuously sharpening them and adding more to my stack as a venture deeper into computer science:</summary>
+
+<br>
+
+**Languages and Packages 🛠️**
+
+My favourite programming languages and packages that I use in my projects.
 
 <p>
 <img alt="Python" style="padding-right:10px; padding-bottom:10px" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
@@ -32,14 +33,18 @@ I like to work on projects that allign with my interests during my free time. Fe
 <img alt="Markdown" style="padding-right:10px; padding-bottom:10px" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
 
 
-### IDEs 👩‍💻
+**IDEs 👩‍💻**
+
+The integrated development environments that I use in my projects.
 <p>
 <img alt="Visual Studio Code" style="padding-right:10px; padding-bottom:10px" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 <img alt="Jupyter Notebook" style="padding-right:10px; padding-bottom:10px" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
 </p>
 
 
-### Terminals and Operating Systems 🖥️
+**Terminals and Operating Systems 🖥️**
+
+Some terminals and operating systems that I have experience in using.
 <p>
 <img alt="Windows" style="padding-right:10px; padding-bottom:10px" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 <img alt="Linux" style="padding-right:10px; padding-bottom:10px" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
@@ -50,10 +55,9 @@ I like to work on projects that allign with my interests during my free time. Fe
 </p>
 
 
-
-
 <details>
 <summary>Applications 💻</summary>
+A short list of the main applications I use to increase productivity.
 <br>
 <p>
 <img alt="Microsoft Office" style="padding-right:10px; padding-bottom:10px" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
@@ -68,6 +72,7 @@ I like to work on projects that allign with my interests during my free time. Fe
 
 <details>
 <summary>Creatives 🎨</summary>
+Some of the software I use when designing visuals.
 <br>
 <p>
 <img alt="Adobe Creative Cloud" style="padding-right:10px; padding-bottom:10px" src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white" />
@@ -79,8 +84,7 @@ I like to work on projects that allign with my interests during my free time. Fe
 <img alt="Blender" style="padding-right:10px; padding-bottom:10px" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
 </p> </details>
 
----
-
+</details>
 
 ## Links
 
