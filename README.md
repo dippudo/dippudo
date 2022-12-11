@@ -18,35 +18,3 @@ I like to work on projects that allign with my interests during my free time, fe
    </p>
 
 Feel free to contact me via email contact.dippudo@gmail.com or Twitter DM’s for any inquiries!<br><br>
-
-## Involvement & Experience
-<details>
-<summary>2021 - present | Contributing to BanklessDAO 🏴</summary>
-<br>
-
-The [BanklessDAO](https://twitter.com/banklessDAO) originated from the [Bankless podcast](https://twitter.com/BanklessHQ)
-
-Contributing to the Design and Research Guilds for various projects as a Level 1, 2, and 3 of the DAO. I am Winner of the [BanklessDAO Fight Club NFT competition](https://opensea.io/collection/fight-club-golden-glove). Engaging in BanklessDAO spinoffs as well.
-
-[Join us](https://discord.com/invite/bankless) for DAO work and to start your Bankless Journey! <br> <br> <br>
-
-</details>
-
-<details>
-<summary>2022 - 2022 | Artist for UltraSound Merch 👕</summary>
-<br>
-
-A medium for artists and organizations to create merchandise for their respective communities.
-
-My [winning entry](https://opensea.io/collection/fight-club-golden-glove) for the BanklessDAO Fight Club NFT was turned into a t-shirt [here](https://ultrasoundmerch.com/collections/fight-club)! <br> <br> <br>
-</details>
-
-<details>
-<summary>2022 - present | Designing at The Rug 📰</summary>
-<br>
-
-The Onion of crypto. Perfectly expressing the meme culture of crypto with satirical news about the latest news and events of the industry. I have designed numerous headline images used for [The Rug](https://twitter.com/TheRugNews).
-
-View the editions [here](https://therug.mirror.xyz/)! <br> <br> <br>
-</details>
-
